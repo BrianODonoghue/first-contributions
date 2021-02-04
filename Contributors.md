@@ -27,6 +27,7 @@
 - [Caleb Pomayo] (https://github.com/kalebkun)
 - [Devin O'Neal] (https://github.com/ALASKAWARRIORS)
 - Tarık Coşkun
+- Brian O Donoghue
 - [Suj P](https://github.com/sujap)
 - [Harrshini](https://github.com/harrshini12)
 - Noah Miller
